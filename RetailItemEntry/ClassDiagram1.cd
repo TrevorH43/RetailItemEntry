@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RetailItemEntry.RetailItem">
+    <Position X="3.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAgAAAEAAAAAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RetailItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="RetailItemEntry.ItemClass">
+    <Position X="5.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ItemClass.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
